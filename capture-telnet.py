@@ -4,8 +4,8 @@ import telnetlib
 import re
 import paramiko
 
-username = "m.yasin"
-password = "M.Y4s1n!@#2019"
+username = "cisco"
+password = "cisco"
 state = None
 a=0
 errorDev = []
